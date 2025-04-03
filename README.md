@@ -14,19 +14,19 @@ Agile methodology is a flexible and iterative approach to project management and
 ## Tools Used in Project Management
 
 ### JIRA
-![JIRA Logo](https://upload.wikimedia.org/wikipedia/en/3/3c/Jira_Logo.svg)
+![JIRA Logo](https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png)
 - Used for tracking work, velocity, reports, efficiency, and sprinting.
 - [Official JIRA Documentation](https://www.atlassian.com/software/jira)
 
 ### Confluence / SharePoint
-![Confluence Logo](https://upload.wikimedia.org/wikipedia/en/4/48/Confluence_logo.svg)
-![SharePoint Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg)
+![Confluence Logo](https://seeklogo.com/images/C/confluence-logo-3AE7AB5E18-seeklogo.com.png)
+![SharePoint Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png)
 - Knowledge sharing platforms that serve as a knowledge database (Knowledge DB).
 - [Official Confluence Documentation](https://www.atlassian.com/software/confluence)
 - [Official SharePoint Documentation](https://learn.microsoft.com/en-us/sharepoint/sharepoint-online)
 
 ### ServiceNow
-![ServiceNow Logo](https://upload.wikimedia.org/wikipedia/commons/3/36/ServiceNow_logo.svg)
+![ServiceNow Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/ServiceNow_logo.png)
 - IT service management tool used for handling incidents, changes, and problem management.
 
 #### ServiceNow Key Features:
@@ -36,13 +36,13 @@ Agile methodology is a flexible and iterative approach to project management and
 - [Official ServiceNow Documentation](https://docs.servicenow.com/)
 
 ### Read the Docs
-![Read the Docs Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/Read_the_Docs_logo.svg)
+![Read the Docs Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Read_the_Docs_logo.svg/512px-Read_the_Docs_logo.svg.png)
 - An open-source tool similar to Confluence/SharePoint, used for hosting documentation.
 - [Read the Docs Official Site](https://readthedocs.org/)
 
 ### Git, GitHub, and Bitbucket
-![Git Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ![Bitbucket Logo](https://upload.wikimedia.org/wikipedia/en/3/39/Bitbucket_Logo.png)
 - Version control systems used for tracking code changes, maintaining repositories, and managing projects.
 - [Git Official Documentation](https://git-scm.com/doc)
@@ -57,16 +57,11 @@ Agile methodology is a flexible and iterative approach to project management and
 ## Architecture Images
 
 ### Agile Process Pipeline
-![Agile Process](https://upload.wikimedia.org/wikipedia/commons/4/43/Agile_Process.svg)
+![Agile Process](https://www.visual-paradigm.com/guide/agile-software-development/agile-process-cycle.png)
 
 ### CI/CD Pipeline
-![CI/CD Pipeline](https://upload.wikimedia.org/wikipedia/commons/b/b5/CI-CD-Pipeline.svg)
+![CI/CD Pipeline](https://miro.medium.com/max/1400/1*iX2Z3UvyfX3qkrAwh93qAw.png)
 
-## README.md File Contents
-
-### Pipeline Images
-- Agile process pipeline
-- CI/CD pipeline
 
 ---
 
