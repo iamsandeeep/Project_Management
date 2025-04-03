@@ -14,13 +14,12 @@ Agile methodology is a flexible and iterative approach to project management and
 ## Tools Used in Project Management
 
 ### JIRA
-<img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Jira_Logo.svg" width="100"/>
+
 - Used for tracking work, velocity, reports, efficiency, and sprinting.
 - [Official JIRA Documentation](https://www.atlassian.com/software/jira)
 
 ### Confluence / SharePoint
-<img src="https://upload.wikimedia.org/wikipedia/en/4/48/Confluence_logo.svg" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg" width="100"/>
+
 - Knowledge sharing platforms that serve as a knowledge database (Knowledge DB).
 - [Official Confluence Documentation](https://www.atlassian.com/software/confluence)
 - [Official SharePoint Documentation](https://learn.microsoft.com/en-us/sharepoint/sharepoint-online)
@@ -54,13 +53,7 @@ Agile methodology is a flexible and iterative approach to project management and
 - **Project Retrospectives**: Conduct regular sprint retrospectives for continuous improvement.
 - **Documentation Best Practices**: Maintain well-structured and up-to-date documentation.
 
-## Architecture Images
 
-### Agile Process Pipeline
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Agile_process_diagram.svg" width="500"/>
-
-### CI/CD Pipeline
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/CI-CD-pipeline.svg" width="500"/>
 
 
 ---
